@@ -1,0 +1,39 @@
+#heading{
+  font-size: 25px;
+  text-align: center;
+  color: rgb(9, 56, 110)
+}
+
+body{
+  background-color: cyan;
+  font-family: 'Indie Flower', sans-serif;
+}
+.Questions{
+  text-align: left;
+  color: blue
+}
+.Form{
+  text-align: left;
+  color: rgb(0, 77, 75)
+}
+.radiobttn {
+ // position: absolute;
+  //top: 0;
+  //left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: #eee;
+ 
+  //border-radius: 50%;
+}
+
+ .radiobttn :hover {
+  background-color: red;
+}
+
+#sbmt {
+		font-family: 'Indie Flower', sans-serif;
+		font-size: 20px;
+		background-color: rgb(166, 1, 178);
+		color: rgb(61, 0, 0)
+}
